@@ -1,6 +1,12 @@
 ## Hi there 👋
+<p>
+  <!-- gmail -->
+  <a href="mailto:chaewonjeong.dev@gmail.com"><img src="https://img.shields.io/badge/chaewonjeong.dev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <!-- Tistory -->
+  <a href="https://ch-one.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
+</p>
+🖥️ I'm Backend Developer
 
-I'm Backend Developer
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
